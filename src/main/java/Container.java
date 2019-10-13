@@ -1,3 +1,4 @@
+//Khoi tao ham
 public class Container {
     private String idContainer;
     private String lengthContainer;
