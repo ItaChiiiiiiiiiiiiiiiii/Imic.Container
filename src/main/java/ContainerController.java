@@ -1,4 +1,4 @@
-import java.sql.SQLOutput;
+// Định nghĩa hàm
 import java.util.ArrayList;
 import java.util.Scanner;
 
